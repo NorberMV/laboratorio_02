@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4CAF2F22-872A-4D29-B1F6-EB71C735CB87}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculoEdad/Program.cs">
+    <Files>
+      <File FileName="calculoEdad/Program.cs" Line="28" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="calculoEdad" expanded="True">
+            <Node name="calculoEdad" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.calculoEdad PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

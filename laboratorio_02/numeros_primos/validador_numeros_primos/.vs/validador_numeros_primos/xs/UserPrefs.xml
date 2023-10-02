@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{879D2DD8-1AEC-412C-9307-850EC151CAF9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="validador_numeros_primos/Program.cs">
+    <Files>
+      <File FileName="validador_numeros_primos/Program.cs" Line="5" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="validador_numeros_primos" expanded="True">
+            <Node name="validador_numeros_primos" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.validador__numeros__primos FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
